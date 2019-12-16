@@ -1,104 +1,13 @@
-﻿Installing assembly 'C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe'.
+﻿Installing assembly 'C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.exe'.
 Affected parameters are:
    logtoconsole = 
-   logfile = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.InstallLog
-   assemblypath = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe
-Installing service ClientService...
-Service ClientService has been successfully installed.
-Creating EventLog source ClientService in log Application...
-Committing assembly 'C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe'.
-Affected parameters are:
-   logtoconsole = 
-   logfile = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.InstallLog
-   assemblypath = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe
-Installing assembly 'C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe'.
-Affected parameters are:
-   logtoconsole = 
-   logfile = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.InstallLog
-   assemblypath = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe
-Installing service ClientService...
-Service ClientService has been successfully installed.
-Creating EventLog source ClientService in log Application...
-Committing assembly 'C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe'.
-Affected parameters are:
-   logtoconsole = 
-   logfile = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.InstallLog
-   assemblypath = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe
-Installing assembly 'C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe'.
-Affected parameters are:
-   logtoconsole = 
-   logfile = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.InstallLog
-   assemblypath = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe
-Installing service ClientService...
-Creating EventLog source ClientService in log Application...
-Rolling back assembly 'C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe'.
-Affected parameters are:
-   logtoconsole = 
-   logfile = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.InstallLog
-   assemblypath = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe
-Restoring event log to previous state for source ClientService.
-Installing assembly 'C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe'.
-Affected parameters are:
-   logtoconsole = 
-   logfile = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.InstallLog
-   assemblypath = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe
-Installing service ClientService...
-Service ClientService has been successfully installed.
-Creating EventLog source ClientService in log Application...
-Committing assembly 'C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe'.
-Affected parameters are:
-   logtoconsole = 
-   logfile = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.InstallLog
-   assemblypath = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe
-Installing assembly 'C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe'.
-Affected parameters are:
-   logtoconsole = 
-   logfile = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.InstallLog
-   assemblypath = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe
-Installing service ClientService...
-Service ClientService has been successfully installed.
-Creating EventLog source ClientService in log Application...
-Committing assembly 'C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe'.
-Affected parameters are:
-   logtoconsole = 
-   logfile = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.InstallLog
-   assemblypath = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe
-Installing assembly 'C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.exe'.
-Affected parameters are:
-   logtoconsole = 
-   logfile = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.InstallLog
    assemblypath = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.exe
+   logfile = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.InstallLog
 Installing service ClientService...
 Creating EventLog source ClientService in log Application...
 Rolling back assembly 'C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.exe'.
 Affected parameters are:
    logtoconsole = 
-   logfile = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.InstallLog
    assemblypath = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.exe
+   logfile = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.InstallLog
 Restoring event log to previous state for source ClientService.
-Installing assembly 'C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.exe'.
-Affected parameters are:
-   logtoconsole = 
-   logfile = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.InstallLog
-   assemblypath = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.exe
-Installing service ClientService...
-Creating EventLog source ClientService in log Application...
-Rolling back assembly 'C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.exe'.
-Affected parameters are:
-   logtoconsole = 
-   logfile = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.InstallLog
-   assemblypath = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.exe
-Restoring event log to previous state for source ClientService.
-Installing assembly 'C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.exe'.
-Affected parameters are:
-   logtoconsole = 
-   logfile = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.InstallLog
-   assemblypath = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.exe
-Installing service ClientService...
-Service ClientService has been successfully installed.
-Creating EventLog source ClientService in log Application...
-Committing assembly 'C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.exe'.
-Affected parameters are:
-   logtoconsole = 
-   logfile = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.InstallLog
-   assemblypath = C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\ClientService.exe

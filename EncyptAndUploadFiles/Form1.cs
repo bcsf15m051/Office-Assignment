@@ -30,7 +30,8 @@ namespace EncyptAndUploadFiles
 
         private void btnStartEncrypting_Click(object sender, EventArgs e)
         {
-            if(!sc.Status.Equals(ServiceControllerStatus.Running))
+            sc = new ServiceController("ClientService");
+            if (!sc.Status.Equals(ServiceControllerStatus.Running))
             {
                 MessageBox.Show("Service is not running, kindly start the Service first.");
                 return;

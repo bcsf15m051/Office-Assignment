@@ -24,7 +24,8 @@ namespace ClientService
         public ClientService()
         {
             InitializeComponent();
-           //this.OnStart(null);
+            log.Info("Service start at : " + DateTime.Now.ToString());
+            //this.OnStart(null);
         }
 
         protected override void OnStart(string[] arges)
