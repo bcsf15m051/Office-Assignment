@@ -1,0 +1,10 @@
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Release\EncyptAndUploadFiles.exe.config
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Release\EncyptAndUploadFiles.exe
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Release\EncyptAndUploadFiles.pdb
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\obj\Release\EncyptAndUploadFiles.Form1.resources
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\obj\Release\EncyptAndUploadFiles.Properties.Resources.resources
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\obj\Release\EncyptAndUploadFiles.csproj.GenerateResource.Cache
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\obj\Release\EncyptAndUploadFiles.csproj.CoreCompileInputs.cache
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\obj\Release\EncyptAndUploadFiles.exe
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\obj\Release\EncyptAndUploadFiles.pdb
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\obj\Release\EncyptAndUploadFiles.csprojResolveAssemblyReference.cache

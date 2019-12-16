@@ -1,0 +1,14 @@
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe.config
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.exe
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\ClientService.pdb
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\obj\Release\ClientService.csproj.CoreCompileInputs.cache
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\obj\Release\ClientService.exe
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\obj\Release\ClientService.pdb
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\obj\Release\ClientService.ProjectInstaller.resources
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\obj\Release\ClientService.csproj.GenerateResource.Cache
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\obj\Release\ClientService.ClientService.resources
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\log4net-loggly.dll
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\log4net.dll
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\Newtonsoft.Json.dll
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\log4net.xml
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Release\Newtonsoft.Json.xml

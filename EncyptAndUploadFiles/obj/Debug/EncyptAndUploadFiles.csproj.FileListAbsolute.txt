@@ -1,0 +1,15 @@
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\EncyptAndUploadFiles.exe.config
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\EncyptAndUploadFiles.exe
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\EncyptAndUploadFiles.pdb
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\obj\Debug\EncyptAndUploadFiles.csprojResolveAssemblyReference.cache
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\obj\Debug\EncyptAndUploadFiles.Form1.resources
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\obj\Debug\EncyptAndUploadFiles.Properties.Resources.resources
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\obj\Debug\EncyptAndUploadFiles.csproj.GenerateResource.Cache
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\obj\Debug\EncyptAndUploadFiles.csproj.CoreCompileInputs.cache
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\obj\Debug\EncyptAndUploadFiles.exe
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\obj\Debug\EncyptAndUploadFiles.pdb
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\log4net-loggly.dll
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\log4net.dll
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\log4net.xml
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\EncyptAndUploadFiles\bin\Debug\Newtonsoft.Json.xml

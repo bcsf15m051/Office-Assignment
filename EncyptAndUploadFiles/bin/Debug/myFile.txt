@@ -1,0 +1,7 @@
+process:12/16/2019 4:43:06 PM
+path:C:\Users\maida.tayyab\Desktop\Release
+Ip:dsfsf
+port:sdfs
+format:md5
+process:12/16/2019 4:43:08 PM
+sdfsf

@@ -1,0 +1,10 @@
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Debug\ClientService.exe.config
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Debug\ClientService.exe
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\bin\Debug\ClientService.pdb
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\obj\Debug\ClientService.ProjectInstaller.resources
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\obj\Debug\ClientService.csproj.GenerateResource.Cache
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\obj\Debug\ClientService.csproj.CoreCompileInputs.cache
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\obj\Debug\ClientService.exe
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\obj\Debug\ClientService.pdb
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\obj\Debug\ClientService.csprojResolveAssemblyReference.cache
+C:\Users\maida.tayyab\source\repos\EncyptAndUploadFiles\ClientService\obj\Debug\ClientService.ClientService.resources
